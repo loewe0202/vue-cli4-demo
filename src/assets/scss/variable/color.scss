@@ -1,0 +1,39 @@
+/* 颜色变量 */
+
+/* 行为相关颜色 */
+$uni-color-primary: #1AAD19;
+$uni-color-primary-hover: #4cd964;
+$uni-color-success: #4cd964;
+$uni-color-warn: #f0ad4e;
+$uni-color-error: #dd524d;
+
+/* 文字基本颜色 */
+$uni-text-color: #333; //基本色
+$uni-text-color-inverse: #fff; //反色
+$uni-text-color-inverse-hover: rgba(255, 255, 255, 0.6); //反色
+$uni-text-color-grey: #999; //辅助灰色
+$uni-text-color-placeholder: #808080;
+$uni-text-color-disable: #c0c0c0;
+$weuiTextColorTitle: #000000;
+$weuiTextColorDesc: #999;
+$weuiTextColorTips: #B2B2B2;
+$weuiTextColorLightGray: #CECECE;
+
+/* 背景颜色 */
+$uni-bg-color: #ffffff;
+$uni-bg-color-grey: #f8f8f8;
+$uni-bg-color-hover: #f1f1f1; //点击状态颜色
+$uni-bg-color-mask: rgba(0, 0, 0, 0.6); //遮罩颜色
+$weuiBgColorDefault: #EFEFF4;
+$weuiBgColorActive: #ECECEC;
+
+/* 边框颜色 */
+$uni-border-color: #c8c7cc;
+$weui-border-color-light: #E6E6EA;
+$weui-border-color-gray: #D7D6DC;
+$weuiAgreeCheckbox: #D1D1D1;
+$weuiLineColorLight: #E5E5E5;
+$weuiLineColorDark: #BCBAB6;
+
+/* link */
+$weuiLinkColorDefault: #586C94;

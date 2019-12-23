@@ -15,8 +15,13 @@ export default {
   },
   mounted() {
     // js代码中使用环境变量
-    console.log('BASE_URL: ', process.env.BASE_URL);
-    console.log('VUE_APP_API: ', process.env.VUE_APP_API);
+    // console.log('BASE_URL: ', process.env.BASE_URL);
+    // console.log('VUE_APP_API: ', process.env.VUE_APP_API);
   },
 };
 </script>
+<style lang="scss">
+.home {
+  color: $uni-color-primary;
+}
+</style>
